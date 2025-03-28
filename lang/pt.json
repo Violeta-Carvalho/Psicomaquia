@@ -1,0 +1,41 @@
+{
+  "BOILERPLATE": {
+    "Ability": {
+      "Str": { "long": "Força", "abbr": "for" },
+      "Con": { "long": "Constituição", "abbr": "con" },
+      "Dex": { "long": "Destreza", "abbr": "des" },
+      "Int": { "long": "Inteligência", "abbr": "int" },
+      "Wis": { "long": "Sabedoria", "abbr": "sab" },
+      "Cha": { "long": "Carisma", "abbr": "car" }
+    },
+    "SheetLabels": {
+      "Actor": "Ficha de Personagem",
+      "Item": "Ficha de Item"
+    },
+    "Item": {
+      "Spell": {
+        "SpellLVL": "Magia Nível {level}",
+        "AddLVL": "Adicionar Nível {level}"
+      }
+    },
+    "Effect": {
+      "Source": "Fonte",
+      "Toggle": "Efeitos de Mudança",
+      "Temporary": "Efeitos Temporários",
+      "Passive": "Efeitos Passivos",
+      "Inactive": "Efeitos Inativos"
+    }
+  },
+
+  "TYPES": {
+    "Actor": {
+      "character": "Personagem",
+      "npc": "PdM"
+    },
+    "Item": {
+      "item": "Item",
+      "feature": "Característica",
+      "spell": "Magia"
+    }
+  }
+}
